@@ -100767,7 +100767,7 @@ r=p.c
 r.toString
 r=A.k(r)
 q=A.bR(16)
-n=n.ax.a===B.n?new A.hr(o,o,m,B.bj):new A.hr(o,o,l,B.bj)
+n=n.ax.a===B.n?new A.hr(o,o,l,B.bj):new A.hr(o,o,m,B.bj)
 q=A.i3(A.as(o,new A.W(new A.S(15,15,15,15),new A.mS(n,A.e1("assets/images/hole_wizard.png",o,o),o),o),B.i,o,o,new A.bp(r.at,o,s,q,o,o,o,B.I),o,o,o,new A.S(15,15,15,15),o))
 s=p.c
 s.toString
