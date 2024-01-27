@@ -100752,7 +100752,7 @@ for(r=0;r<6;++r)s[r]=!1
 this.d=s},
 E(a){var s=this,r=null,q=A.b_(a,r,t.w).w,p=A.aq_(A.a([s.afI(),s.akR(),s.akX(),s.aiT(),s.akA(),s.ajt()],t.p),!0,!0,!0)
 return A.eX(!0,A.bB(A.as(B.C,A.bB(new A.CF(B.W_,p,new A.S(22.5,22.5,22.5,22.5),B.R,!1,r,r,new A.ew(B.aV,r),!0,r,6,B.ae,B.lw,r,B.P,r),r,r),B.i,r,new A.ao(0,1000,0,1/0),r,q.a.b,r,r,r,1/0),r,r),B.U,!0)},
-afI(){var s,r,q,p=this,o=null,n=t.n,m=A.a([-1,0,0,0,255,0,-1,0,0,255,0,0,-1,0,255,0,0,0,1,0],n),l=A.a([1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0],n)
+afI(){var s,r,q,p=this,o=null,n=t.n,m=A.a([-1,0,0,0,1,0,-1,0,0,1,0,0,-1,0,1,0,0,0,1,0],n),l=A.a([1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0],n)
 n=p.c
 n.toString
 n=A.k(n)
@@ -100767,7 +100767,7 @@ r=p.c
 r.toString
 r=A.k(r)
 q=A.bR(16)
-n=n.ax.a===B.n?new A.hr(o,o,l,B.bj):new A.hr(o,o,m,B.bj)
+n=n.ax.a===B.n?new A.hr(o,o,m,B.bj):new A.hr(o,o,l,B.bj)
 q=A.i3(A.as(o,new A.W(new A.S(15,15,15,15),new A.mS(n,A.e1("assets/images/hole_wizard.png",o,o),o),o),B.i,o,o,new A.bp(r.at,o,s,q,o,o,o,B.I),o,o,o,new A.S(15,15,15,15),o))
 s=p.c
 s.toString
