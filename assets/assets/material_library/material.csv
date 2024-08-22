@@ -1,0 +1,15 @@
+Material,Modulus,Stress
+PC/ABS,350000,13000
+ABS (general purpose),355000,10900
+dr9,30000000,90000
+Delrin Homolymer (gp),410000,14100
+Delrin Homolymer (20% glass),880000,16500
+Nylon 6/6,410000,10800
+Polycarbonate (gp),330000,13100
+Polycarbonate (40% glass),1400000,27000
+Polyimide (gp),570000,18500
+Polyimide (glass reinforced),3840000,56000
+Polystyrene,450000,12500
+Polystyrene (30% glass),1200000,17000
+Polypropyelene (gp),210000,6500
+PVC (rigid),485000,13500
