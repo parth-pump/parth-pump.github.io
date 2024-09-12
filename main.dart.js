@@ -101780,13 +101780,13 @@ A.axY.prototype={
 $0(){this.a.w=this.b},
 $S:0}
 A.PI.prototype={
-H(a){var s=null,r=t.p,q=A.bK(A.b([A.c_(new A.a8(B.LZ,A.tq(A.l(a).ax.a===B.x?"assets/images/cylndrical_fit_main_dark.png":"assets/images/cylndrical_fit_main_light.png",B.cn,s,300,!1,300),s),s,s)],r),B.F,B.J,B.I),p=A.bK(A.b([A.c_(new A.a8(B.kM,A.tq(A.l(a).ax.a===B.x?"assets/images/interference_fit_dark.png":"assets/images/interference_fit_light.png",B.cn,s,300,!1,300),s),s,s),A.aY("Interference Fit",s,s,s,s,A.l(a).p3.x,s,s)],r),B.F,B.J,B.I),o=A.bK(A.b([A.c_(new A.a8(B.kM,A.tq(A.l(a).ax.a===B.x?"assets/images/transition_fit_dark.png":"assets/images/transition_fit_light.png",B.cn,s,300,!1,300),s),s,s),A.aY("Transition Fit",s,s,s,s,A.l(a).p3.x,s,s)],r),B.F,B.J,B.I),n=A.b([q,p,o,A.bK(A.b([A.c_(new A.a8(B.kM,A.tq(A.l(a).ax.a===B.x?"assets/images/clearance_fit_dark.png":"assets/images/clearance_fit_light.png",B.cn,s,300,!1,300),s),s,s),A.aY("Clearance Fit",s,s,s,s,A.l(a).p3.x,s,s)],r),B.F,B.J,B.I)],r)
-r=A.b([],r)
-q=t.w
-if(A.b5(a,s,q).w.a.a>1400)r.push(new A.a8(B.aW,A.c_(A.hL(A.f3(n,B.F,B.J,B.I,s),this.c,s,new A.iO(B.cx,s),B.a4),s,s),s))
-if(A.b5(a,s,q).w.a.a<1400)r.push(A.aF(s,A.aR1(!0,this.c,new A.aeq(n),4,new A.iO(B.cx,s)),B.i,s,new A.am(0,1/0,0,360),s,s,s,s,s,s))
-if(A.b5(a,s,q).w.a.a<1400){q=A.l(a)
-r.push(A.c_(new A.a8(new A.a1(15,0,15,15),A.aS_(B.a4,this.c,4,A.aPu(A.l(a).ax.f,q.k4,8,8,8)),s),s,s))}return A.ir(!0,A.bK(r,B.eW,B.ct,B.bE),B.S,!0)}}
+H(a){var s,r=null,q=t.p,p=A.b([A.bK(A.b([A.c_(new A.a8(B.LZ,A.tq("assets/images/mechanical_tolerance.png",B.cn,r,300,!1,300),r),r,r)],q),B.F,B.J,B.I),A.bK(A.b([A.c_(new A.a8(B.kM,A.tq("assets/images/interference_fit.png",B.cn,r,300,!1,300),r),r,r),A.aY("Interference Fit",r,r,r,r,A.l(a).p3.x,r,r)],q),B.F,B.J,B.I),A.bK(A.b([A.c_(new A.a8(B.kM,A.tq("assets/images/transition_fit.png",B.cn,r,300,!1,300),r),r,r),A.aY("Transition Fit",r,r,r,r,A.l(a).p3.x,r,r)],q),B.F,B.J,B.I),A.bK(A.b([A.c_(new A.a8(B.kM,A.tq("assets/images/clearance_fit.png",B.cn,r,300,!1,300),r),r,r),A.aY("Clearance Fit",r,r,r,r,A.l(a).p3.x,r,r)],q),B.F,B.J,B.I)],q)
+q=A.b([],q)
+s=t.w
+if(A.b5(a,r,s).w.a.a>1400)q.push(new A.a8(B.aW,A.c_(A.hL(A.f3(p,B.F,B.J,B.I,r),this.c,r,new A.iO(B.cx,r),B.a4),r,r),r))
+if(A.b5(a,r,s).w.a.a<1400)q.push(A.aF(r,A.aR1(!0,this.c,new A.aeq(p),4,new A.iO(B.cx,r)),B.i,r,new A.am(0,1/0,0,360),r,r,r,r,r,r))
+if(A.b5(a,r,s).w.a.a<1400){s=A.l(a)
+q.push(A.c_(new A.a8(new A.a1(15,0,15,15),A.aS_(B.a4,this.c,4,A.aPu(A.l(a).ax.f,s.k4,8,8,8)),r),r,r))}return A.ir(!0,A.bK(q,B.eW,B.ct,B.bE),B.S,!0)}}
 A.aeq.prototype={
 $2(a,b){return this.a[B.e.bK(b,4)]},
 $S:220}
